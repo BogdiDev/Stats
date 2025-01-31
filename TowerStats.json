@@ -40,7 +40,7 @@
     },
     "Player 390": {
         "Type": "Gi-Hun",
-        "Image": "rbxassetid://102526115801539",
+        "Image": "rbxassetid://108793620949124",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 8,
@@ -79,7 +79,7 @@
     },
     "Melodie": {
         "Type": "Aoe",
-        "Image": "rbxassetid://106631240529372",
+        "Image": "rbxassetid://130239995946152",
         "Rarity": "Nightmare",
         "PlacePrice": 1200,
         "Max": 8,
@@ -118,7 +118,7 @@
     },
     "Cool Noob": {
         "Type": "Nuke",
-        "Image": "rbxassetid://106518947456545",
+        "Image": "rbxassetid://76130184484959",
         "Rarity": "Apex",
         "PlacePrice": 22420,
         "Max": 8,
@@ -157,7 +157,7 @@
     },
     "Buffed Mutant": {
         "Type": "Nuke",
-        "Image": "rbxassetid://80500241437828",
+        "Image": "rbxassetid://100352935762883",
         "Rarity": "Apex",
         "PlacePrice": 15000,
         "Max": 8,
