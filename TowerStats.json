@@ -40,7 +40,7 @@
     },
     "Gaia Chica": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Apex",
         "PlacePrice": 100,
         "NoEnemyAttack": true,
@@ -80,7 +80,7 @@
     },
     "Forest Nymph Bonnie": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
@@ -127,7 +127,7 @@
     },
     "Glamrock Bonnie": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
