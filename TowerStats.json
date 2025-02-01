@@ -41,7 +41,7 @@
     "Gaia Chica": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Forgotten",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -81,7 +81,7 @@
     "Forest Nymph Bonnie": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
