@@ -38,67 +38,6 @@
             }
         ]
     },
-     "Apollo's Moon": {
-        "Type": "Splash + Passive",
-        "Image": "rbxassetid://110480135815933",
-        "Rarity": "Apex",
-        "PlacePrice": 38000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "Wither": 1.05,
-                "ShinyWither": 1.1,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 32,
-                "Damage": 110000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "Wither": 1.05,
-                "ShinyWither": 1.1,
-                "WitherTime": 1
-            },
-            {
-                "Price": 60000,
-                "Range": 35,
-                "Damage": 130000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "Wither": 1.05,
-                "ShinyWither": 1.1,
-                "WitherTime": 1
-            },
-            {
-                "Price": 80000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "Wither": 1.05,
-                "ShinyWither": 1.1,
-                "WitherTime": 1
-            }
-        ]
-    }
-}
     "Player 390": {
         "Type": "Gi-Hun",
         "Image": "rbxassetid://108793620949124",
