@@ -38,6 +38,84 @@
             }
         ]
     },
+    "Archer Fredeus": {
+        "Type": "Single",
+        "Image": "rbxassetid://113101409953014",
+        "Rarity": "Epic",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 500,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 24,
+                "Damage": 340,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Ares Endoxus": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://97883839997626",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 7500,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 22000,
+                "Range": 28,
+                "Damage": 9000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 1.8
+            }
+        ]
+    },
     "Apollo's Sun": {
         "Type": "Splash + Anti Heal",
         "Image": "rbxassetid://120968472381141",
