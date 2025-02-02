@@ -38,6 +38,94 @@
             }
         ]
     },
+    "Foxseidon": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://80289284808475",
+
+        "Rarity": "Secret",
+        "PlacePrice": 9000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 2.5,
+                
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 2.4,
+               
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 2.2,
+               
+            },
+            {
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 2,
+             
+            }
+        ]
+    },
+    "Hermes Puppeteer": {
+        "Type": "Splash + Booster",
+        "Image": "rbxassetid://83624388314614",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "NoEnemyAttack": true,
+        "Offset": 0.4,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2.5,
+                
+            },
+            {
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 2.4,
+                
+            },
+            {
+                "Price": 14000,
+                "Range": 24,
+                "Damage": 3500,
+                "Cooldown": 2.3,
+               
+            },
+            {
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.3,
+                
+            }
+        ]
+    },
     "Archer Fredeus": {
         "Type": "Single",
         "Image": "rbxassetid://113101409953014",
