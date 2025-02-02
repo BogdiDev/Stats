@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Apollo's Sun": {
+        "Type": "Splash + Anti Heal",
+        "Image": "rbxassetid://120968472381141",
+        "Rarity": "Apex",
+        "PlacePrice": 22000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 49000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 65000,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 40,
+                "Damage": 105000,
+                "Cooldown": 3.2
+            }
+        ]
+    },
     "King Von": {
         "Type": "Minigun",
         "Image": "rbxassetid://109349525186139",
