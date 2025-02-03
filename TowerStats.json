@@ -38,44 +38,6 @@
             }
         ]
     },
-        "Type": "Baking",
-        "Image": "rbxassetid://75480978519627",
-        "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 8,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 5500,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 500,
-                "Range": 35,
-                "Damage": 6500,
-                "Cooldown": 0.45
-            },
-            {
-                "Price": 750,
-                "Range": 40,
-                "Damage": 8500
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1250,
-                "Range": 45,
-                "Damage": 10000,
-                "Cooldown": 0.35
-            }
-        ]
-    },
     "Thanos 230": {
         "Type": "Single",
         "Image": "rbxassetid://72933968115858",
