@@ -42,7 +42,7 @@
         "Type": "Single",
         "Image": "rbxassetid://130578952611918",
         "Rarity": "Apex",
-        "PlacePrice": 300,
+        "PlacePrice": 500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -53,27 +53,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Range": 32,
+                "Damage": 6500,
+                "Cooldown": 0.4
             },
             {
                 "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.25
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 40,
+                "Damage": 8500,
+                "Cooldown": 0.15
             }
         ]
     },
