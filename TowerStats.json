@@ -195,10 +195,10 @@
         ]
     },
       "Max Energy": {
-        "Type": "Damage Dealer",
+        "Type": "Splash",
         "Image": "rbxassetid://136586795111443",
         "Rarity": "Nightmare",
-        "PlacePrice": 1200,
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -209,8 +209,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 500,
+                "Range": 35,
+                "Damage": 5000,
                 "Cooldown": 0.2
             },
             {
@@ -227,12 +227,13 @@
             },
             {
                 "Price": 1250,
-                "Range": 45,
-                "Damage": 1200,
+                "Range": 55,
+                "Damage": 12000,
                 "Cooldown": 0.1
-        
+            }
         ]
     },
+      
     "Red Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://95987870402080",
