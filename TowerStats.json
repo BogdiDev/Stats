@@ -38,11 +38,11 @@
             }
         ]
     },
-    "Player 101": {
-        "Type": "Single",
-        "Image": "rbxassetid://130082854306591",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+     "Soulmate Puppet": {
+        "Type": "Splash",
+        "Image": "rbxassetid://127566861240944",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -74,6 +74,45 @@
                 "Range": 15,
                 "Damage": 60,
                 "Cooldown": 0.75
+            }
+        ]
+    },
+    "Player 101": {
+        "Type": "Single",
+        "Image": "rbxassetid://130082854306591",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 14000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 20000,
+                "Cooldown": 2
             }
         ]
     },
