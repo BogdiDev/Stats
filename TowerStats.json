@@ -39,10 +39,10 @@
         ]
     },
     "Golden Endo": {
-        "Type": "Single",
+        "Type": "Starter + Single",
         "Image": "rbxassetid://111654725454991",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 600,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -53,9 +53,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
@@ -71,17 +71,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 0.3
             }
         ]
     },
     "Golden Foxy": {
-        "Type": "Single",
+        "Type": "Melee",
         "Image": "rbxassetid://123692519667676",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -92,9 +92,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
@@ -110,17 +110,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 6000,
+                "Cooldown": 0.2
             }
         ]
     },
     "Pink Present Boy": {
-        "Type": "Single",
+        "Type": "Teddy Bear Spawner",
         "Image": "rbxassetid://106859083485831",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 1000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -131,9 +131,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 50,
+                "Damage": 5500,
+                "Cooldown": 0.5
             },
             {
                 "Price": 500,
@@ -149,17 +149,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 65,
+                "Damage": 9550,
+                "Cooldown": 0.6
             }
         ]
     },
     "Valentines Springtrap": {
-        "Type": "Single",
+        "Type": "Multi",
         "Image": "rbxassetid://102759752881714",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 9999,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -170,9 +170,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 29.9,
+                "Damage": 25000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 500,
@@ -188,9 +188,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 44.9,
+                "Damage": 40000,
+                "Cooldown": 0.35
             }
         ]
     },
@@ -234,10 +234,10 @@
         ]
     },
     "Player 101": {
-        "Type": "Single",
+        "Type": "Melee",
         "Image": "rbxassetid://117693520106951",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Secret",
+        "PlacePrice": 68999,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -273,10 +273,10 @@
         ]
     },
      "Sae Byeok": {
-        "Type": "Single",
+        "Type": "Aoe",
         "Image": "rbxassetid://73148098269676",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 14230,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -287,15 +287,15 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 250,
+                "Damage": 400,
+                "Cooldown": 0.1
             },
             {
                 "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1
             },
             {
                 "Price": 750,
@@ -305,17 +305,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 105,
+                "Damage": 750,
+                "Cooldown": 0.1
             }
         ]
     },
       "Kang Dae Ho": {
-        "Type": "Single",
+        "Type": "Splash + Slow",
         "Image": "rbxassetid://110807864221037",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 6500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -326,9 +326,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 1.5
             },
             {
                 "Price": 500,
@@ -344,17 +344,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 34.5,
+                "Damage": 70000,
+                "Cooldown": 1
             }
         ]
     },
      "Player 007": {
         "Type": "Single",
         "Image": "rbxassetid://74180514324526",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -365,9 +365,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 0.5
             },
             {
                 "Price": 500,
@@ -383,17 +383,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 55,
+                "Damage": 6500,
+                "Cooldown": 0.4
             }
         ]
     },
     "Player 001": {
-        "Type": "Single",
+        "Type": "Single + Stun",
         "Image": "rbxassetid://71433346990787",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 5840,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -405,8 +405,8 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Damage": 40000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 500,
@@ -422,17 +422,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 60000,
+                "Cooldown": 0.7
             }
         ]
     },
       "Red Springtrap": {
-        "Type": "Single",
+        "Type": "Aoe + Slow",
         "Image": "rbxassetid://83236647419462",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -443,9 +443,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 40000,
+                "Cooldown": 0.9
             },
             {
                 "Price": 500,
@@ -461,17 +461,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 75000,
+                "Cooldown": 0.6
             }
         ]
     },
     "Golden Widow Baby": {
-        "Type": "Single",
+        "Type": "Aoe + Stun",
         "Image": "rbxassetid://80707766821558",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -482,9 +482,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 22,
+                "Damage": 10000,
+                "Cooldown": 2.5
             },
             {
                 "Price": 500,
@@ -500,17 +500,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 30000,
+                "Cooldown": 1.5
             }
         ]
     },
      "Golden Ice Freddy": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://88640131318027",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -521,8 +521,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 20,
+                "Damage": 50000,
                 "Cooldown": 1
             },
             {
@@ -539,9 +539,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 55,
+                "Damage": 80000,
+                "Cooldown": 0.7
             }
         ]
     },
