@@ -546,10 +546,10 @@
         ]
     },
      "Golden Present Boy": {
-        "Type": "Single",
+        "Type": "Nuke",
         "Image": "rbxassetid://86990632184998",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -560,9 +560,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 20000,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
@@ -578,17 +578,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 1.5
             }
         ]
     },
      "Golden Springtrap": {
-        "Type": "Single",
+        "Type": "Melee",
         "Image": "rbxassetid://89558235938493",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 15000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -599,9 +599,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 20000,
+                "Cooldown": 0.6
             },
             {
                 "Price": 500,
@@ -617,9 +617,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 43000,
+                "Cooldown": 0.4
             }
         ]
     },
