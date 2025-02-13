@@ -42,7 +42,7 @@
         "Type": "Aoe + Slow",
         "Image": "rbxassetid://84122608828462",
         "Rarity": "Legendary",
-        "PlacePrice": 300,
+        "PlacePrice": 3000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -53,9 +53,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 40000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 500,
@@ -71,17 +71,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 65,
+                "Damage": 65000,
+                "Cooldown": 0.1
             }
         ]
     },
      "Golden Withered Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://86074214552097",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Image": "rbxassetid://128535647767705",
+        "Rarity": "Apex",
+        "PlacePrice": 4500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -92,9 +92,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 0.2
             },
             {
                 "Price": 500,
@@ -110,17 +110,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 50,
+                "Damage": 7000,
+                "Cooldown": 0.1
             }
         ]
     },
     "Golden Withered Bonnie": {
-        "Type": "Single",
-        "Image": "rbxassetid://106604242314658",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Type": "Single + Slow",
+        "Image": "rbxassetid://115789770060285",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -131,9 +131,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
@@ -149,9 +149,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 55,
+                "Damage": 45000,
+                "Cooldown": 0.1
             }
         ]
     },
