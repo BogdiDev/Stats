@@ -39,9 +39,9 @@
         ]
     },
     "Red Shadow Bonnie": {
-        "Type": "Single",
+        "Type": "Aoe + Slow",
         "Image": "rbxassetid://84122608828462",
-        "Rarity": "Uncommon",
+        "Rarity": "Legendary",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
