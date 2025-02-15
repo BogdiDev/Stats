@@ -120,7 +120,7 @@
         "Type": "Single",
         "Image": "rbxassetid://82617771683455",
         "Rarity": "Apex",
-        "PlacePrice": 300,
+        "PlacePrice": 6200,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -131,8 +131,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 30,
+                "Damage": 40000,
                 "Cooldown": 1
             },
             {
@@ -150,16 +150,16 @@
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 60000,
                 "Cooldown": 0.75
             }
         ]
     },
      "Golden Apollo": {
-        "Type": "Single",
+        "Type": "Aoe + Stun + Poison",
         "Image": "rbxassetid://93661945309465",
         "Rarity": "Legendary",
-        "PlacePrice": 300,
+        "PlacePrice": 20000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -170,9 +170,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 40,
+                "Damage": 50000,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
@@ -188,9 +188,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 110000,
+                "Cooldown": 1.2
             }
         ]
     },
@@ -242,8 +242,8 @@
      "Empyrean Freddy": {
         "Type": "Multi",
         "Image": "rbxassetid://88453171033259",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -254,9 +254,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
@@ -272,17 +272,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 0.2
             }
         ]
     },
     "Empyrean Foxy": {
-        "Type": "Single",
+        "Type": "Aoe + Slow",
         "Image": "rbxassetid://127921363875912",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 1234,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -293,9 +293,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 50,
+                "Damage": 40000,
+                "Cooldown": 3.5
             },
             {
                 "Price": 500,
@@ -311,9 +311,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 65,
+                "Damage": 50000,
+                "Cooldown": 2
             }
         ]
     },
@@ -321,7 +321,7 @@
         "Type": "Pierce + Stun",
         "Image": "rbxassetid://80129123365351",
         "Rarity": "Legendary",
-        "PlacePrice": 300,
+        "PlacePrice": 7000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -332,9 +332,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 40000,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
@@ -351,16 +351,16 @@
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Damage": 80000,
+                "Cooldown": 1.5
             }
         ]
     },
     "Golden Summer Bonnie": {
-        "Type": "Single",
+        "Type": "Splash + Poison",
         "Image": "rbxassetid://134134047641244",
         "Rarity": "Nightmare",
-        "PlacePrice": 300,
+        "PlacePrice": 800,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -371,9 +371,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.7
             },
             {
                 "Price": 500,
@@ -389,9 +389,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 15000,
+                "Cooldown": 0.4
             }
         ]
     },
@@ -399,7 +399,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://71323841978832",
         "Rarity": "Apex",
-        "PlacePrice": 300,
+        "PlacePrice": 3300,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -410,9 +410,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 15000,
+                "Cooldown": 1.5
             },
             {
                 "Price": 500,
@@ -428,9 +428,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 1.2
             }
         ]
     },
