@@ -118,8 +118,8 @@
     },
      "Golden Ares Endo": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://82617771683455",
+        "Rarity": "Apex",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
@@ -157,8 +157,8 @@
     },
      "Golden Apollo": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://93661945309465",
+        "Rarity": "Legendary",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
