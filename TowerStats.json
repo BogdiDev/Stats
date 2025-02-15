@@ -38,6 +38,51 @@
             }
         ]
     },
+     "Hermes Puppeteer": {
+        "Type": "Splash + Booster",
+        "Image": "rbxassetid://83624388314614",
+        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "NoEnemyAttack": true,
+        "Offset": 0.4,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2.5,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 2.4,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 14000,
+                "Range": 24,
+                "Damage": 3500,
+                "Cooldown": 2.3,
+                "CooldownBoost": 0.8
+            },
+            {
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.3,
+                "CooldownBoost": 0.74
+            }
+        ]
+    },
      "Empyrean Freddy": {
         "Type": "Multi",
         "Image": "rbxassetid://88453171033259",
