@@ -38,14 +38,13 @@
             }
         ]
     },
-     "Foxseidon": {
-        "Type": "Cone AOE + Slow",
-        "Image": "rbxassetid://80289284808475",
-        "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
-        "Rarity": "Secret",
-        "PlacePrice": 9000,
-        "Offset": 0,
-        "Max": 2,
+     "Golden Apollo": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -54,27 +53,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 4500,
-                "Cooldown": 2.5,
+                "Range": 10,
+                "Damage": 40,
+                "Cooldown": 1
             },
             {
-                "Price": 12000,
-                "Range": 24,
-                "Damage": 6000,
-                "Cooldown": 2.4,
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
             },
             {
-                "Price": 15000,
-                "Range": 25,
-                "Damage": 7000,
-                "Cooldown": 2.2,
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
             },
             {
-                "Price": 18000,
-                "Range": 27,
-                "Damage": 8000,
-                "Cooldown": 2,
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 60,
+                "Cooldown": 0.75
             }
         ]
     },
