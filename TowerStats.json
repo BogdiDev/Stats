@@ -39,10 +39,10 @@
         ]
     },
       "Red Bounded Shadow": {
-        "Type": "Single",
+        "Type": "Aoe + Slow + Poison",
         "Image": "rbxassetid://134048307309979",
         "Rarity": "Legendary",
-        "PlacePrice": 300,
+        "PlacePrice": 22222,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -53,8 +53,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 20,
+                "Damage": 37777,
                 "Cooldown": 1
             },
             {
@@ -71,17 +71,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 377777,
+                "Cooldown": 2
             }
         ]
     },
     "Red PBB": {
-        "Type": "Single",
+        "Type": "Nuke",
         "Image": "rbxassetid://81682307690900",
         "Rarity": "Apex",
-        "PlacePrice": 300,
+        "PlacePrice": 7000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -92,9 +92,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 80000,
+                "Cooldown": 2.5
             },
             {
                 "Price": 500,
@@ -110,17 +110,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 41,
+                "Damage": 100000,
+                "Cooldown": 1.2
             }
         ]
     },
     "Usopp": {
-        "Type": "Single",
+        "Type": "Turret Spawner",
         "Image": "rbxassetid://84644920453832",
         "Rarity": "Secret",
-        "PlacePrice": 300,
+        "PlacePrice": 7200,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -132,7 +132,7 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 40,
+                "Damage": 4000,
                 "Cooldown": 1
             },
             {
@@ -149,17 +149,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 0.5
             }
         ]
     },
     "Roronoa Zoro": {
-        "Type": "Single",
+        "Type": "Melee + Stun",
         "Image": "rbxassetid://126255418473185",
         "Rarity": "Apex",
-        "PlacePrice": 300,
+        "PlacePrice": 20000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -170,9 +170,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 40000,
+                "Cooldown": 0.3
             },
             {
                 "Price": 500,
@@ -188,14 +188,14 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 55,
+                "Damage": 70000,
+                "Cooldown": 0.4
             }
         ]
     },
     "Nami": {
-        "Type": "Single",
+        "Type": "Farm",
         "Image": "rbxassetid://93888344796184",
         "Rarity": "Nightmare",
         "PlacePrice": 300,
@@ -209,9 +209,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 1000,
+                "Damage": 3000,
+                "Cooldown": 2.5
             },
             {
                 "Price": 500,
@@ -227,14 +227,14 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 1000,
+                "Damage": 5000,
+                "Cooldown": 1.5
             }
         ]
     },
     "Gogeta Blue": {
-        "Type": "Single",
+        "Type": "Multi",
         "Image": "rbxassetid://93835588401143",
         "Rarity": "Apex",
         "PlacePrice": 300,
@@ -248,9 +248,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 50,
+                "Damage": 300,
+                "Cooldown": 0.01
             },
             {
                 "Price": 500,
@@ -266,17 +266,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 75,
+                "Damage": 600,
+                "Cooldown": 0.03
             }
         ]
     },
      "Luffy": {
-        "Type": "Single",
+        "Type": "Punch",
         "Image": "rbxassetid://128021877153076",
         "Rarity": "Legendary",
-        "PlacePrice": 300,
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -287,8 +287,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 30,
+                "Damage": 400000,
                 "Cooldown": 1
             },
             {
@@ -305,8 +305,8 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
+                "Range": 64,
+                "Damage": 600000,
                 "Cooldown": 0.75
             }
         ]
