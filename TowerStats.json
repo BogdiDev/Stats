@@ -40,8 +40,8 @@
     },
       "Red Bounded Shadow": {
         "Type": "Single",
-        "Image": "rbxassetid://78124417005994",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://134048307309979",
+        "Rarity": "Legendary",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
@@ -79,8 +79,8 @@
     },
     "Red PBB": {
         "Type": "Single",
-        "Image": "rbxassetid://102847290005272",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://81682307690900",
+        "Rarity": "Apex",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
