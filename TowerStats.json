@@ -40,7 +40,7 @@
     },
     "Usopp": {
         "Type": "Single",
-        "Image": "rbxassetid://134860886995684",
+        "Image": "rbxassetid://84644920453832",
         "Rarity": "Secret",
         "PlacePrice": 300,
         "Max": 8,
@@ -79,7 +79,7 @@
     },
     "Roronoa Zoro": {
         "Type": "Single",
-        "Image": "rbxassetid://132333814131301",
+        "Image": "rbxassetid://126255418473185",
         "Rarity": "Apex",
         "PlacePrice": 300,
         "Max": 8,
@@ -118,7 +118,7 @@
     },
     "Nami": {
         "Type": "Single",
-        "Image": "rbxassetid://76481452693903",
+        "Image": "rbxassetid://93888344796184",
         "Rarity": "Nightmare",
         "PlacePrice": 300,
         "Max": 8,
@@ -157,7 +157,7 @@
     },
     "Gogeta Blue": {
         "Type": "Single",
-        "Image": "rbxassetid://93227917678607",
+        "Image": "rbxassetid://93835588401143",
         "Rarity": "Apex",
         "PlacePrice": 300,
         "Max": 8,
@@ -196,7 +196,7 @@
     },
      "Luffy": {
         "Type": "Single",
-        "Image": "rbxassetid://137688354630682",
+        "Image": "rbxassetid://128021877153076",
         "Rarity": "Legendary",
         "PlacePrice": 300,
         "Max": 8,
