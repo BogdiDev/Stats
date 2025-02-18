@@ -40,10 +40,10 @@
         
     },
     "Naruto": {
-        "Type": "Single",
+        "Type": "Stun",
         "Image": "rbxassetid://75253771373770",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -54,9 +54,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 2.5
             },
             {
                 "Price": 500,
@@ -72,18 +72,18 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 70000,
+                "Cooldown": 2
             }
         ]
         
     },
      "Super Sayian": {
-        "Type": "Single",
+        "Type": "Multi",
         "Image": "rbxassetid://72963707570807",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Legendary",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -94,9 +94,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 500,
@@ -112,17 +112,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 39,
+                "Damage": 6124,
+                "Cooldown": 0.1
             }
         ]
     },
       "Vegeta": {
-        "Type": "Single",
+        "Type": "Single + Slow",
         "Image": "rbxassetid://85583811049576",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 30000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -133,9 +133,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 40000,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
@@ -151,17 +151,17 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 70000,
+                "Cooldown": 1.5
             }
         ]
     },
      "Sukuna": {
         "Type": "Single",
         "Image": "rbxassetid://130851818623596",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -172,9 +172,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 40000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 500,
@@ -190,9 +190,9 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 0.5
             }
         ]
     },
