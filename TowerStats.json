@@ -39,6 +39,206 @@
         ]
         
     },
+     "Ignited Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://127795582906122",
+        "Rarity": "Apex",
+        "PlacePrice": 15000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 4444,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 33,
+                "Damage": 7777,
+                "Cooldown": 0.2
+            }
+        ]
+        
+    },
+       "Ignited Golden Freddy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://124025335235876",
+        "Rarity": "Legendary",
+        "PlacePrice": 6000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2400,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 3400,
+                "Cooldown": 0.05
+            }
+        ]
+        
+    },
+     "Ignited Cupcake": {
+        "Type": "Sniper",
+        "Image": "rbxassetid://125524652498133",
+        "Rarity": "Secret",
+        "PlacePrice": 2000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 65,
+                "Damage": 16000,
+                "Cooldown": 1.5
+            }
+        ]
+        
+    },
+     "Ignited Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://138578503542949",
+        "Rarity": "Nightmare",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 25000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 35,
+                "Damage": 35000,
+                "Cooldown": 2
+            }
+        ]
+        
+    },
+     "Ignited Freddy": {
+        "Type": "Stun",
+        "Image": "rbxassetid://113939848475339",
+        "Rarity": "Apex",
+        "PlacePrice": 800,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 100,
+                "Cooldown": 100
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 100,
+                "Damage": 100,
+                "Cooldown": 100
+            }
+        ]
+        
+    },
        "False Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://137111008853180",
