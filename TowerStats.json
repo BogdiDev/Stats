@@ -41,7 +41,7 @@
     },
      "Steve": {
         "Type": "Single",
-        "Image": "rbxassetid://122474626734362",
+        "Image": "rbxassetid://96504487227375",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -81,7 +81,7 @@
     },
      "Party Toy Chica": {
         "Type": "Nuke",
-        "Image": "rbxassetid://72946466878525",
+        "Image": "rbxassetid://118046698153815",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Max": 8,
@@ -121,7 +121,7 @@
     },
     "Party Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://95152733759366",
+        "Image": "rbxassetid://108048008390002",
         "Rarity": "Nightmare",
         "PlacePrice": 800,
         "Max": 8,
@@ -161,7 +161,7 @@
     },
     "Party Rockin Bonnie": {
         "Type": "Aoe",
-        "Image": "rbxassetid://73623915911181",
+        "Image": "rbxassetid://109851966945302",
         "Rarity": "Apex",
         "PlacePrice": 500,
         "Max": 8,
