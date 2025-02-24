@@ -39,6 +39,86 @@
         ]
         
     },
+     "Ice Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://95096697548546",
+        "Rarity": "Secret",
+        "PlacePrice": 9900,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 29,
+                "Damage": 7700,
+                "Cooldown": 0.5
+            }
+        ]
+        
+    },
+    "Squidedd": {
+        "Type": "Aoe/Burn/Pierce/Continuous",
+        "Image": "rbxassetid://102901072887241",
+        "Rarity": "Legendary",
+        "PlacePrice": 25,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 50,
+                "Range": 100,
+                "Damage": 1000000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 200,
+                "Damage": 1500000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 250,
+                "Range": 350,
+                "Damage": 5000000,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 450,
+                "Range": 500,
+                "Damage": 10000000,
+                "Cooldown": 0.005
+            }
+        ]
+    }, 
+
      "Freezetrap": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
