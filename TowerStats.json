@@ -39,7 +39,7 @@
         ]
         
     },
-     "Ice Chica": {
+     "Icy Chica": {
         "Type": "Single",
         "Image": "rbxassetid://95096697548546",
         "Rarity": "Secret",
@@ -79,7 +79,7 @@
         ]
         
     },
-    "The Squidedd": {
+    "Suggestion Winner": {
         "Type": "Aoe/Burn/Pierce +Continuous",
         "Image": "rbxassetid://102901072887241",
         "Rarity": "Legendary",
@@ -121,7 +121,7 @@
 
      "Freezetrap": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://105266086800193",
         "Rarity": "Legendary",
         "PlacePrice": 300,
         "Max": 8,
