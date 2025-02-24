@@ -39,6 +39,94 @@
         ]
         
     },
+    "Flaming Springtrap": {
+        "Type": "Splash Burn + Slow",
+        "Image": "rbxassetid://90439626995960",
+        "Rarity": "Nightmare",
+        "PlacePrice": 16000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 1.5
+            }
+        ]
+        
+    },
+     "The Princess": {
+        "Type": "Damage + Range Booster",
+        "Image": "rbxassetid://81703563273569",
+        "Rarity": "Secret",
+        "PlacePrice": 650,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.05,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 800,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
+            }
+        ]
+    },
       "Icy Bonster": {
         "Type": "Single",
         "Image": "rbxassetid://90490258374015",
