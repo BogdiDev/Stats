@@ -1121,7 +1121,7 @@
         
     },
      "BemmyBlox": {
-        "Type": "Ducky",
+        "Type": "Ducky/Splash",
         "Image": "rbxassetid://117030348170176",
         "Rarity": "Nightmare",
         "PlacePrice": 69420,
@@ -1136,25 +1136,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400000,
+                "Damage": 15000,
                 "Cooldown": 3.5
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
+                "Price": 69421,
+                "Range": 22,
+                "Damage": 20000,
                 "Cooldown": 1
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 69422,
+                "Range": 24,
+                "Damage": 30000,
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
-                "Range": 45,
-                "Damage": 600000,
+                "Price": 69423,
+                "Range": 25,
+                "Damage": 40000,
                 "Cooldown": 3
             }
         ]
