@@ -4965,7 +4965,7 @@
         ]
     },
     "Skibidi Freddy": {
-        "Type": "Toilets",
+        "Type": "Splash",
         "Image": "rbxassetid://102325382043123", 
         "Rarity": "Nightmare", 
         "PlacePrice": 50000,
@@ -4979,9 +4979,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 30000,
+                "Cooldown": 3.5
             },
             {
                 "Price": 40000,
