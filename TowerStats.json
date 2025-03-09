@@ -39,6 +39,46 @@
         ]
         
     },
+     "Old Man Bemmy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://100119675510683",
+        "Rarity": "Legendary",
+        "PlacePrice": 69420,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 1850,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 29,
+                "Damage": 2000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 34,
+                "Damage": 2350,
+                "Cooldown": 0.1
+            }
+        ]
+        
+    },
      "Poland Ball": {
         "Type": "Single",
         "Image": "rbxassetid://84280834953852",
