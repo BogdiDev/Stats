@@ -4458,10 +4458,10 @@
         ]
     },
     "King Von": {
-        "Type": "Minigun",
+        "Type": "Single",
         "Image": "rbxassetid://109349525186139",
         "Rarity": "Apex",
-        "PlacePrice": 5550,
+        "PlacePrice": 12500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -4473,26 +4473,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 4000,
+                "Damage": 990,
                 "Cooldown": 0.1
             },
             {
-                "Price": 500,
+                "Price": 15000,
                 "Range": 25,
-                "Damage": 5000,
+                "Damage": 1200,
                 "Cooldown": 0.1
             },
             {
-                "Price": 750,
+                "Price": 17500,
                 "Range": 30,
-                "Damage": 6000,
-                "Cooldown": 0.08
+                "Damage": 1400,
+                "Cooldown": 0.1
             },
             {
-                "Price": 1250,
+                "Price": 25000,
                 "Range": 35,
-                "Damage": 7500,
-                "Cooldown": 0.06
+                "Damage": 1800,
+                "Cooldown": 0.1
             }
         ]
     },
