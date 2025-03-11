@@ -39,6 +39,46 @@
         ]
         
     },
+      "Orange King": {
+        "Type": "Single",
+        "Image": "rbxassetid://99455443041065",
+        "Rarity": "Apex",
+        "PlacePrice": 17500,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 23000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 22500,
+                "Range": 18,
+                "Damage": 29000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 27500,
+                "Range": 24,
+                "Damage": 35000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 32500,
+                "Range": 28,
+                "Damage": 40000,
+                "Cooldown": 0.8
+            }
+        ]
+        
+    },
      "Old Duck Bemmy": {
         "Type": "Aoe",
         "Image": "rbxassetid://100119675510683",
