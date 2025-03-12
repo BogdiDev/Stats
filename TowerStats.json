@@ -39,6 +39,46 @@
         ]
         
     },
+    "Pop Cat": {
+        "Type": "Single",
+        "Image": "rbxassetid://13882945878",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 7500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5500,
+                "Range": 19,
+                "Damage": 9900,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 7500,
+                "Range": 23,
+                "Damage": 12000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 13500,
+                "Range": 26,
+                "Damage": 14000,
+                "Cooldown": 0.9
+            }
+        ]
+        
+    },
       "Orange King": {
         "Type": "Single",
         "Image": "rbxassetid://99455443041065",
